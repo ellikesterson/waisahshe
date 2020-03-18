@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aebeezoosa.dingruiyang.pw/sitemap.xml
